@@ -1,10 +1,10 @@
 package CarGarage.files;
 
-public final class Service {
+public final class Services {
     private final String name;
     private final double price;
 
-    public Service(String name, double price) {
+    public Services(String name, double price) {
         this.name = name;
         this.price = price;
     }
